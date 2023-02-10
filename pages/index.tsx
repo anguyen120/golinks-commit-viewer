@@ -7,13 +7,14 @@ const Home: NextPage = () => {
     <div className="flex flex-col min-h-screen overflow-hidden">
       <Head>
         <meta charSet="utf-8" />
-        <title>Bryan ISD CTE Home</title>
+        <title>Netflix Repo Explorer</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta property="og:title" content="Bryan ISD CTE Home" />
+        <meta property="og:title" content="Netflix Repo Explorer" />
         <meta
           name="description"
-          content="Bryan Independent School District serves K-12th grade students and is located in Bryan, TX."
+          content="A user interface to navigate the repositories and commits in Netflix’s
+          Github"
         />
       </Head>
 
