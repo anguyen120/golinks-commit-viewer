@@ -20,7 +20,9 @@ export default function CommitTimeline({ repo }) {
             nodes {
               committedDate
               author {
-                name
+                user {
+                  login
+                }
               }
               messageHeadline
               oid
@@ -64,7 +66,7 @@ export default function CommitTimeline({ repo }) {
               </TimelineSeparator>
               <TimelineContent sx={{ py: "12px", px: 2 }}>
                 <Typography variant="h6">
-                  {commit?.author?.name}
+                  {commit?.author?.user?.login}
                 </Typography>
                 <Typography variant="overline">commit {commit?.oid?.slice(0, 7)}</Typography>
                 <Typography>{commit?.messageHeadline}</Typography>
