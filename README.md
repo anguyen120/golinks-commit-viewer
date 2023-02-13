@@ -62,6 +62,7 @@ Similarly, the commits list displays the following information for each commit:
 ### Built With
 
 * [![Next][Next.js]][Next-url]
+
 This project was built using Next.js and MaterialUI, and it is hosted on Netlify. It leverages the Github API/Graphql to retrieve the repository and commit information from Netflix's Github account.
 
 
