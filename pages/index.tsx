@@ -36,9 +36,9 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <meta charSet="utf-8" />
-        <title>Netflix Repo Explorer</title>
+        <title>Netflix Repos</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta property="og:title" content="Netflix Repo Explorer" />
+        <meta property="og:title" content="Netflix Repos" />
         <meta
           name="description"
           content="A user interface to navigate the repositories and commits in Netflix's
