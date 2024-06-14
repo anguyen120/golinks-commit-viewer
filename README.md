@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c50e1533-a9b5-4172-b98d-d9895c99cadf/deploy-status)](https://app.netlify.com/sites/netflix-repos/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08b2f69e-19b9-4dff-b566-1efb884da7e7/deploy-status)](https://app.netlify.com/sites/netf1ix-repos/deploys)
 
 
 
@@ -13,7 +13,7 @@
     A user interface to navigate the repositories and commits in Netflix's Github
     <br />
     <br />
-    <a href="https://netflix-repos.netlify.app">View Demo</a>
+    <a href="https://netf1ix-repos.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://netflix-repos.netlify.app)
+[![Product Name Screen Shot][product-screenshot]](https://netf1ix-repos.netlify.app/)
 
 This project aims to create a user-friendly interface to navigate the repositories and commits in Netflix's Github account. The interface allows users to view a list of Netflix's repositories and to see a list of commits when clicking on a repository. The repository list is sorted by Star Count in descending order and contains the following information for each repository:
 * Repo name
